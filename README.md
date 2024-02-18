@@ -1,4 +1,4 @@
-##### Hi, I'm plaidchuck, an [**IT Professional**](https://www.linkedin.com/in/garyjchidester/)
+##### Hi, I'm **plaidchuck**, an [**IT Professional**](https://www.linkedin.com/in/garyjchidester/)
 
 ## Welcome to my repository.
 <!---
