@@ -1,4 +1,4 @@
-<h2> Hi, I'm Gary, a<a href="https://www.linkedin.com/in/garyjchidester/">Software Developer and Computer Science student!</a> </h2>
+<h2> Hi, I'm Gary, a <a href="https://www.linkedin.com/in/garyjchidester/">Software Developer and Computer Science student!</a> </h2>
 
  <h3>Programming Projects:</h3>
  
